@@ -10,8 +10,9 @@ import { auth, db } from "../firebase";
 import Chat from "./Chat";
 import Fab from "@material-ui/core/Fab";
 import AddIcon from "@material-ui/icons/Add";
-
+import { useRouter } from "next/router";
 const Sidebar = () => {
+  const router = useRouter();
   const [user] = useAuthState(auth);
   const userChatRef = db
     .collection("chats")

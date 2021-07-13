@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Weather app
+### Hi there, Greetings from -[Techogen][website] 👋
 
-## Getting Started
+# Contents of this File
+- Description
 
-First, run the development server:
+# Description
+--------------
+Today we made a chat apllication like whatsapp with firebase as database and for authentication we are making
+use of google authentication.
+Hope you will like this apllication.
+Built with dedication by team Techogen.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### Spotify Playing 🎧
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="AdditcoX Spotify Playing" width="350" />](https://open.spotify.com/?_gl=1*1j9zrqt*_gcl_aw*R0NMLjE2MTkzNDc4MzcuQ2owS0NRandwcFNFQmhDR0FSSXNBTklzNHA1NXkyNW5ZcHNKUmdoTFNyU2xnR3JNdlNLT0lEZ1ZOUFQwbEpoZ2JWbmU0ZFUxWVZCVC1zSWFBcGNMRUFMd193Y0I.*_gcl_dc*R0NMLjE2MTkzNDc4MzcuQ2owS0NRandwcFNFQmhDR0FSSXNBTklzNHA1NXkyNW5ZcHNKUmdoTFNyU2xnR3JNdlNLT0lEZ1ZOUFQwbEpoZ2JWbmU0ZFUxWVZCVC1zSWFBcGNMRUFMd193Y0I.&_ga=2.64304619.577986972.1619347814-1218930918.1618132103&_gac=1.55957209.1619347837.Cj0KCQjwppSEBhCGARIsANIs4p55y25nYpsJRghLSrSlgGrMvSKOIDgVNPT0lJhgbVne4dU1YVBT-sIaApcLEALw_wcB)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Languages and Tools used:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+[<img align="left" alt="Next js" width="500px" src="https://camo.githubusercontent.com/54d64f1260052c96ce70c540bd64ee83edbe865aa765941bbc012821744fe265/68747470733a2f2f6173736574732e7a6569742e636f2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67" />](https://nextjs.org/)
 
-## Learn More
+[<img align="left" alt="Firebase" width="100px" src="https://www.gstatic.com/devrel-devsite/prod/vdb246b8cc5a5361484bf12c07f2d17c993026d30a19ea3c7ace6f0263f62c0dd/firebase/images/lockup.png" />](https://firebase.google.com/)
 
-To learn more about Next.js, take a look at the following resources:
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br />
+<br />
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[website]: https://sudoku-api.vercel.app/
+ 

@@ -8,23 +8,29 @@ const Login = () => {
   };
 
   return (
-    <Container>
+    <Main>
       <Head>
         <title>Login</title>
       </Head>
-      <LoginContainer>
-        <Title>Let's Chat!</Title>
-        <Logo src="/assets/chat.svg" loading="lazy" />
-        <SignInButton variant="outlined" onClick={signIn}>
-          Sign In With Google
-        </SignInButton>
-      </LoginContainer>
-    </Container>
+      <Container>
+
+        <LoginContainer>
+          <Title>Let's Chat!</Title>
+          <Logo src="/assets/chat.svg" loading="lazy" />
+          <SignInButton variant="outlined" onClick={signIn}>
+            Sign In With Google
+          </SignInButton>
+        </LoginContainer>
+      </Container>
+    </Main>
   );
 };
 
 export default Login;
 
+const Main = styled.div`
+  
+`;
 const Container = styled.div`
   display: grid;
   place-items: center;
